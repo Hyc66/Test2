@@ -6,8 +6,10 @@ public class test {
 
         int i=0;
         int j=1;
+        int d=2;
         System.out.println(i);
         System.out.println(j);
+        System.out.println(d);
     }
 
 }
